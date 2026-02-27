@@ -1,0 +1,17 @@
+# Normalize line endings to LF in the repo; Git will convert to CRLF on Windows checkout
+* text=auto eol=lf
+
+# Markdown files
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+# Binary files - don't touch line endings
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
