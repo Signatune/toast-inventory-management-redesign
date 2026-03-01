@@ -1,17 +1,17 @@
 ---
 id: TASK-1.1.2
 title: Draft interview warm-up and context questions
-status: In Progress
+status: Done
 assignee: []
 created_date: '2026-02-26 21:40'
-updated_date: '2026-02-28 23:26'
+updated_date: '2026-03-01 04:27'
 labels:
   - research
   - human-only
 dependencies: []
 parent_task_id: TASK-1.1
 priority: high
-ordinal: 3000
+ordinal: 1000
 ---
 
 ## Description

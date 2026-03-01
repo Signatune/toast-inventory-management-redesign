@@ -9,3 +9,11 @@
 	  - Get a broader picture of the [[Existing Solutions]] for this problem
 - Should have a mix of different restaurant operators
 
+## Potential Candidates
+
+Alon Munzer - Owner, Mamaleh's
+Ben Duvall - Bar Manager, State Park
+Melissa Stefanini - Owner, Buenas
+	- She may offer additional contacts
+The Hollows Manager
+Kat - Owner, Shirley Eat More Sunshine
