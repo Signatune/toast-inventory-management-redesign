@@ -4,6 +4,7 @@ title: Write and assemble the final case study
 status: To Do
 assignee: []
 created_date: '2026-02-26 21:34'
+updated_date: '2026-03-01 04:30'
 labels:
   - writing
   - deliverable
@@ -14,6 +15,7 @@ references:
   - Inventory Management in Toast.md
 parent_task_id: TASK-1
 priority: high
+ordinal: 7000
 ---
 
 ## Description

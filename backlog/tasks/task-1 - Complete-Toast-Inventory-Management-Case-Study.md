@@ -4,12 +4,14 @@ title: Complete Toast Inventory Management Case Study
 status: To Do
 assignee: []
 created_date: '2026-02-26 21:32'
+updated_date: '2026-03-01 04:30'
 labels: []
 dependencies: []
 references:
   - Inventory Management in Toast.md
   - toast-inventory-case-study-notes.md
 priority: high
+ordinal: 1000
 ---
 
 ## Description

@@ -4,6 +4,7 @@ title: Create low-fidelity sketches
 status: To Do
 assignee: []
 created_date: '2026-02-26 21:33'
+updated_date: '2026-03-01 04:30'
 labels:
   - design
   - human-only
@@ -11,6 +12,7 @@ dependencies:
   - TASK-1.2
 parent_task_id: TASK-1
 priority: medium
+ordinal: 3000
 ---
 
 ## Description

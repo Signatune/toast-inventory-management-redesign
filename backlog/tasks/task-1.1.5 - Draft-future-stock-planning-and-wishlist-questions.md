@@ -1,15 +1,17 @@
 ---
 id: TASK-1.1.5
 title: Draft future stock planning and wishlist questions
-status: To Do
+status: Done
 assignee: []
 created_date: '2026-02-26 21:41'
+updated_date: '2026-03-01 04:48'
 labels:
   - research
   - human-only
 dependencies: []
 parent_task_id: TASK-1.1
 priority: high
+ordinal: 10000
 ---
 
 ## Description
@@ -40,9 +42,9 @@ Goal: Validate that the proposed feature direction resonates before you invest i
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 8-10 questions covering future planning, wishlist, concept validation, and closing
-- [ ] #2 At least one question uses a scaled rating for quotable data
-- [ ] #3 At least one question probes adoption barriers (reasons NOT to use the feature)
-- [ ] #4 Closing includes ask for prototype validation follow-up
-- [ ] #5 Estimated timing: 7-12 minutes of the interview
+- [x] #1 8-10 questions covering future planning, wishlist, concept validation, and closing
+- [x] #2 At least one question uses a scaled rating for quotable data
+- [x] #3 At least one question probes adoption barriers (reasons NOT to use the feature)
+- [x] #4 Closing includes ask for prototype validation follow-up
+- [x] #5 Estimated timing: 7-12 minutes of the interview
 <!-- AC:END -->

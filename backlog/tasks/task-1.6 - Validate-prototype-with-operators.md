@@ -4,6 +4,7 @@ title: Validate prototype with operators
 status: To Do
 assignee: []
 created_date: '2026-02-26 21:34'
+updated_date: '2026-03-01 04:30'
 labels:
   - research
   - validation
@@ -12,6 +13,7 @@ dependencies:
   - TASK-1.5
 parent_task_id: TASK-1
 priority: medium
+ordinal: 6000
 ---
 
 ## Description

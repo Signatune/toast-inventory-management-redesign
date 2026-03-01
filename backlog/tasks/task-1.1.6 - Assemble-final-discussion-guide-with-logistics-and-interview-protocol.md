@@ -1,9 +1,10 @@
 ---
 id: TASK-1.1.6
 title: Assemble final discussion guide with logistics and interview protocol
-status: To Do
+status: Done
 assignee: []
 created_date: '2026-02-26 21:41'
+updated_date: '2026-03-01 04:48'
 labels:
   - research
   - human-only
@@ -15,6 +16,7 @@ dependencies:
   - TASK-1.1.5
 parent_task_id: TASK-1.1
 priority: high
+ordinal: 11000
 ---
 
 ## Description
@@ -34,9 +36,9 @@ The guide should be conversational, not robotic — questions are starting point
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 Single document combining all question sections with time estimates totaling 20-30 min
-- [ ] #2 Intro script with consent language for recording and quoting
-- [ ] #3 Questions marked as must-ask vs. nice-to-have
-- [ ] #4 Note-taking template included
-- [ ] #5 Post-interview debrief checklist included
+- [x] #1 Single document combining all question sections with time estimates totaling 20-30 min
+- [x] #2 Intro script with consent language for recording and quoting
+- [x] #3 Questions marked as must-ask vs. nice-to-have
+- [x] #4 Note-taking template included
+- [x] #5 Post-interview debrief checklist included
 <!-- AC:END -->

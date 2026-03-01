@@ -4,6 +4,7 @@ title: Build mid-fidelity Figma wireframes
 status: To Do
 assignee: []
 created_date: '2026-02-26 21:34'
+updated_date: '2026-03-01 04:30'
 labels:
   - design
   - figma
@@ -11,6 +12,7 @@ dependencies:
   - TASK-1.3
 parent_task_id: TASK-1
 priority: medium
+ordinal: 4000
 ---
 
 ## Description

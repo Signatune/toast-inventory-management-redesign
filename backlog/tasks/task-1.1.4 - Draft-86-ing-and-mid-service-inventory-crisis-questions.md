@@ -1,15 +1,17 @@
 ---
 id: TASK-1.1.4
 title: Draft 86-ing and mid-service inventory crisis questions
-status: To Do
+status: Done
 assignee: []
 created_date: '2026-02-26 21:41'
+updated_date: '2026-03-01 04:38'
 labels:
   - research
   - human-only
 dependencies: []
 parent_task_id: TASK-1.1
 priority: high
+ordinal: 9000
 ---
 
 ## Description
@@ -35,7 +37,7 @@ Goal: Capture the emotional weight of mid-service inventory failures — the str
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 7-8 questions covering 86 workflow, shared ingredients, and cross-channel conflicts
-- [ ] #2 Questions elicit emotional and operational impact, not just process description
-- [ ] #3 Estimated timing: 5-8 minutes of the interview
+- [x] #1 7-8 questions covering 86 workflow, shared ingredients, and cross-channel conflicts
+- [x] #2 Questions elicit emotional and operational impact, not just process description
+- [x] #3 Estimated timing: 5-8 minutes of the interview
 <!-- AC:END -->

@@ -1,15 +1,17 @@
 ---
 id: TASK-1.1.3
 title: Draft preorder and future-date stock management questions
-status: To Do
+status: Done
 assignee: []
 created_date: '2026-02-26 21:41'
+updated_date: '2026-03-01 04:38'
 labels:
   - research
   - human-only
 dependencies: []
 parent_task_id: TASK-1.1
 priority: high
+ordinal: 8500
 ---
 
 ## Description
@@ -39,8 +41,8 @@ Goal: Get the participant to tell specific stories with real numbers. "We had 40
 
 ## Acceptance Criteria
 <!-- AC:BEGIN -->
-- [ ] #1 8-10 questions covering preorder workflow, oversell/undersell tension, and workarounds
-- [ ] #2 Questions prompt for specific stories and real numbers, not abstract opinions
-- [ ] #3 At least 2 questions use 'tell me about a time' or 'walk me through' framing
-- [ ] #4 Estimated timing: 10-15 minutes of the interview
+- [x] #1 8-10 questions covering preorder workflow, oversell/undersell tension, and workarounds
+- [x] #2 Questions prompt for specific stories and real numbers, not abstract opinions
+- [x] #3 At least 2 questions use 'tell me about a time' or 'walk me through' framing
+- [x] #4 Estimated timing: 10-15 minutes of the interview
 <!-- AC:END -->

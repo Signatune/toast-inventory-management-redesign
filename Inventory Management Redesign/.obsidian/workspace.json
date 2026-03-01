@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "Interviews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview"
+              "title": "Interviews"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview.md",
+                "file": "Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interview"
+              "title": "Backlinks for Interviews"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview.md",
+                "file": "Interviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interview"
+              "title": "Outgoing links from Interviews"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview.md",
+                "file": "Interviews.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interview"
+              "title": "Outline of Interviews"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "d7ced9c9c45a105c",
   "lastOpenFiles": [
+    "Interviews.md.tmp.70696.1772340501305",
+    "Interviews.md.tmp.70696.1772339915930",
     "interview-plan.md",
-    "Interview.md",
+    "Interviews.md",
     "Existing Solutions.md",
     "Limited Time Offer Items.md",
     "Preordering.md",
