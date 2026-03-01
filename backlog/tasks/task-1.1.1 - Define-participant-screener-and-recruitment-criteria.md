@@ -1,15 +1,17 @@
 ---
 id: TASK-1.1.1
 title: Define participant screener and recruitment criteria
-status: To Do
+status: In Progress
 assignee: []
 created_date: '2026-02-26 21:40'
+updated_date: '2026-02-28 23:26'
 labels:
   - research
   - human-only
 dependencies: []
 parent_task_id: TASK-1.1
 priority: high
+ordinal: 2000
 ---
 
 ## Description
